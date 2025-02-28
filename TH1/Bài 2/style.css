@@ -1,0 +1,26 @@
+img{
+    height: 15em;
+}
+h2, i{
+    color: rgb(143, 54, 54);
+}
+
+ th, td{
+    border: none;
+    padding-left: 6em;
+    
+    
+}
+
+*{
+    text-align: left;
+    
+}
+
+h2{
+   padding-left: 4em; 
+}
+
+tr, td{
+    max-width: 3em;
+}
